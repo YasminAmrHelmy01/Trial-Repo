@@ -6,3 +6,4 @@ This is branch-one
 This is branch-two
 
 Added info
+Added info branch-one
