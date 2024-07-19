@@ -1,6 +1,8 @@
 1st line
 main change
-3rd line
+main change
 
 This is branch-one
 This is branch-two
+
+Added info
